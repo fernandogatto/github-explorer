@@ -1,16 +1,31 @@
 ![](/assets/keep-coding.png)
 # Github Explorer 🚀
 
-## Introdução
+## Features
+- Explore for github repositories
+- View the number of stars in the repository
+- View the number of forks in the repository
+- View the number of issues in the repository
+- Dark theme (coming soon)
 
-Para clonar o projeto, abra o terminal e digite:
+## Installation
+
+To clone this project
 ```
 git clone https://github.com/fernandogatto/github-explorer.git
 ```
-Então entre na pasta ```github-explorer``` e dê um ```yarn``` pelo terminal para instalar as dependências.
+So, run the following scripts in folder
 
-Feito isso, rode o projeto com o comando ```yarn start``` pelo terminal e tecle Enter. Após isso, o projeto será rodado no navegador pelo link ```http://localhost:3000```.
+```
+// Install the dependencies
+yarn
 
-## Projeto
+// Start the project
+yarn start
+```
+
+The application will be open in browser by the following url ```http://localhost:3000```.
+
+## Project
 
 ![](/assets/dashboard.png)
